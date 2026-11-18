@@ -1,0 +1,6 @@
+.env
+node_modules
+*.session
+.DS_Store
+logs/
+decision-log.jsonl
